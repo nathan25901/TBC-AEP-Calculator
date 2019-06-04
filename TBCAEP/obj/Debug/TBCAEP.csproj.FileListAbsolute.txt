@@ -1,0 +1,10 @@
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\bin\Debug\TBCAEP.exe.config
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\bin\Debug\TBCAEP.exe
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\bin\Debug\TBCAEP.pdb
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.csprojAssemblyReference.cache
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.Form1.resources
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.Properties.Resources.resources
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.csproj.GenerateResource.cache
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.exe
+F:\Dropbox\Dropbox\Public\Programming Projects\TBCAEP\TBCAEP\obj\Debug\TBCAEP.pdb
